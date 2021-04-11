@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import Card from './Card.js';
 import App from './App';
+import ErrorBoundry from './ErrorBoundry';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 
